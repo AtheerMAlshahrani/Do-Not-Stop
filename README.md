@@ -2,7 +2,9 @@
 
 ## Do- Not Stop,keep it Up!
 
-<img width="110" alt="Screenshot 2023-01-18 at 06 10 25" src="https://user-images.githubusercontent.com/106028380/213193063-f95d96a1-dcbd-446e-a1b1-f3c06035acc9.png">
+
+<img width="125" alt="Pasted Image- Jan 18, 2023 - 5-31-37pm" src="https://user-images.githubusercontent.com/106028380/213200498-86da6e59-5dc1-450f-844d-3a843dc4108b.png">
+
 
 
 # Challenge Statement
